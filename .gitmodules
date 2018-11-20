@@ -1,0 +1,3 @@
+[submodule "plan-my-travel"]
+	path = plan-my-travel
+	url = git@github.com:swapab/plan-my-travel.git
